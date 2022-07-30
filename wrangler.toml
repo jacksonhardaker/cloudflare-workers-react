@@ -1,4 +1,4 @@
-name = "cloudflare-workers-preact"
+name = "cloudflare-workers-react"
 main = "src/index.tsx"
 compatibility_date = "2022-07-30"
 
